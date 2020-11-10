@@ -6,5 +6,8 @@
 4. Clone this repo if you know git, or click [`Download as ZIP`](https://github.com/iamkroot/ilc-scraper/archive/master.zip) and extract it to some location.
 5. Open terminal and cd to download/clone directory.
 6. Run `poetry install --no-dev -E gui` for the default installation. (If you don't want the GUI, which takes up a lot of extra space, omit the `-E gui` from the command.)
+7. Download the auto download script from the repository and move it in the folder where you have cloned the ilc scraper repository
+8. Open the auto download script in your favorite editor and update the username, password and destination location as desired
+9. Pour yourself a cup of coffee, get back to your workstation, run the script, sit back and let the script do the job while you do your thing
 
 For more details, please check out the official repository - [`ilc scraper`](https://github.com/iamkroot/ilc-scraper)
